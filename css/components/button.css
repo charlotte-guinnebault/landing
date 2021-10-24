@@ -1,0 +1,39 @@
+.btn-blue {
+	background-color: black;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color:  white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	height: 20px;
+	width: 210px;
+	justify-content: center;
+	display: flex;
+}
+
+
+.btn-blue:hover {
+  background-color: hotpink;
+  color: white;  
+}
+
+
+.btn-black {
+	background-color: black;
+	padding: 10px 10px;
+	border-radius: 4px;
+	color:  white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	height: 20px;
+	width: 140px;
+	justify-content: center;
+	display: flex;
+}
+
+
+.btn-black:hover {
+  background-color: hotpink;
+  color: white;  
+}
